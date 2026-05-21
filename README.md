@@ -14,16 +14,31 @@
   <img src ="Assets/Icons/software & skills.png" alt= "banner"  style="width:100%; height:auto"/>
 </a>
 
-**I have this develop skills**
-</div>
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,matlab,mysql)](https://skillicons.dev)
+**🧠 Lenguajes**
 
-**I wish to have this skills**
-</div>
+<img src="https://skillicons.dev/icons?i=python,js,html,matlab" />
 
-[![My Skills](https://skillicons.dev/icons?i=ae,cs,cpp,java,ruby,r)](https://skillicons.dev)
+</td>
+    <td valign="top" width="33%">
 
+**⚙️ Lenguajes Deseables**
+
+<img src="https://skillicons.dev/icons?i=ae,c,cs,css,cpp,ruby," />
+
+</td>
+    <td valign="top" width="33%">
+
+**☁️ Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+
+</td>
+  </tr>
+</table>
 <!-- About me  -->
 <a href ="https://github.com/nullnullari">
   <img src ="Assets/Icons/about me.png" alt="banner"  style="width:100%; height:auto"/>
