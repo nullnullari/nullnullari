@@ -48,17 +48,18 @@ Over time, I have developed **experience by the developed projects** by **lookin
 
 <!-- Instagram -->
   <a href="https://www.instagram.com/kogarooo/" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-follow-blue?style=flat-square&logo=Instagram&logoColor=blue&logoSize=auto&label=Instagram&labelColor=%23003D7D&color=%23000000&link=https%3A%2F%2Fwww.instagram.com%2Fkogarooo%2F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-Follow-Green?style=flat-square&logo=Instagram&logoColor=white&logoSize=auto&labelColor=green&color=black">
 </a>
 
 <!-- Tumblr -->
   <a href="https://www.tumblr.com/kogarooo" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Tumblr-follow-blue?style=flat-square&logo=Tumblr&logoColor=blue&logoSize=auto&label=Tumblr&labelColor=%23003D7D&color=%23000000&link=https%3A%2F%2Fwww.tumblr.com%2Fkogarooo">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tumblr-Follow-Green?style=flat-square&logo=Tumblr&logoColor=white&logoSize=auto&labelColor=green&color=black">
 </a>
 
 <!-- X -->
   <a href="https://x.com/lunediasomnia" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/X-follow-blue?style=flat-square&logo=X&logoColor=blue&logoSize=auto&label=X&labelColor=%23003D7D&color=%23000000&link=https%3A%2F%2Fx.com%2Flunediasomnia">
+    <img alt="Static Badge" src="https://img.shields.io/badge/X-Follow-Green?style=flat-square&logo=X&logoColor=white&logoSize=auto&labelColor=green&color=black">
+
 </a>
 <!-- Gmail -->
 
