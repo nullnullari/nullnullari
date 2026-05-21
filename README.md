@@ -11,7 +11,7 @@
 
 <!-- Softwares and Skills  -->
 <a href ="https://github.com/nullnullari">
-  <img src ="assets/Icons/skills.png" alt= "banner"  style="width:100%; height:auto"/>
+  <img src ="Assets/Icons/software & skills.png" alt= "banner"  style="width:100%; height:auto"/>
 </a>
 
 **I have this develop skills**
@@ -26,7 +26,7 @@
 
 <!-- About me  -->
 <a href ="https://github.com/nullnullari">
-  <img src ="assets/Icons/about_me.png" alt="banner"  style="width:100%; height:auto"/>
+  <img src ="Assets/Icons/about me.png" alt="banner"  style="width:100%; height:auto"/>
 </a>
 
 **Who Am I?**
