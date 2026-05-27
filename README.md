@@ -66,17 +66,6 @@ Over time, I have developed **experience by the developed projects** by **lookin
     <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-Follow-Green?style=flat-square&logo=Instagram&logoColor=white&logoSize=auto&labelColor=green&color=black">
 </a>
 
-<!-- Tumblr -->
-  <a href="https://www.tumblr.com/kogarooo" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Tumblr-Follow-Green?style=flat-square&logo=Tumblr&logoColor=white&logoSize=auto&labelColor=green&color=black">
-</a>
-
-<!-- X -->
-  <a href="https://x.com/lunediasomnia" target="_blank">
-    <img alt="Static Badge" src="https://img.shields.io/badge/X-Follow-Green?style=flat-square&logo=X&logoColor=white&logoSize=auto&labelColor=green&color=black">
-
-</a>
-<!-- Gmail -->
 
 <!-- Separador 2  -->
 <a href ="https://github.com/kogaroo">
